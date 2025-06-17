@@ -1,4 +1,4 @@
-from database.database import Base, async_engine, async_session
+from database.database import Base, async_engine
 from database.models import Model
 
 
